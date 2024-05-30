@@ -1,0 +1,82 @@
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\obj\Debug\Pacientes.csprojAssemblyReference.cache
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\obj\Debug\Pacientes.frmSexos.resources
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\obj\Debug\Pacientes.Properties.Resources.resources
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\obj\Debug\Pacientes.csproj.GenerateResource.cache
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\obj\Debug\Pacientes.csproj.CoreCompileInputs.cache
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\obj\Debug\Pacientes.frmNuevoSexo.resources
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\bin\Debug\Pacientes.exe.config
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\bin\Debug\Pacientes.exe
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\bin\Debug\Pacientes.pdb
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\obj\Debug\Pacientes.frmModificarSexo.resources
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\obj\Debug\Pacientes.exe
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\obj\Debug\Pacientes.pdb
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\obj\Debug\Pacientes.frmPrincipal.resources
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\obj\Debug\Pacientes.frmPacientes.resources
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\obj\Debug\Pacientes.frmModificarPaciente.resources
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\obj\Debug\Pacientes.frmNuevoPaciente.resources
+D:\Dropbox\Tecnicatura\Programación III\2024\Clase 08\Pacientes\Pacientes\bin\Debug\Pacientes.exe.config
+D:\Dropbox\Tecnicatura\Programación III\2024\Clase 08\Pacientes\Pacientes\bin\Debug\Pacientes.exe
+D:\Dropbox\Tecnicatura\Programación III\2024\Clase 08\Pacientes\Pacientes\bin\Debug\Pacientes.pdb
+D:\Dropbox\Tecnicatura\Programación III\2024\Clase 08\Pacientes\Pacientes\obj\Debug\Pacientes.csproj.AssemblyReference.cache
+D:\Dropbox\Tecnicatura\Programación III\2024\Clase 08\Pacientes\Pacientes\obj\Debug\Pacientes.frmModificarPaciente.resources
+D:\Dropbox\Tecnicatura\Programación III\2024\Clase 08\Pacientes\Pacientes\obj\Debug\Pacientes.frmNuevoPaciente.resources
+D:\Dropbox\Tecnicatura\Programación III\2024\Clase 08\Pacientes\Pacientes\obj\Debug\Pacientes.frmNuevoSexo.resources
+D:\Dropbox\Tecnicatura\Programación III\2024\Clase 08\Pacientes\Pacientes\obj\Debug\Pacientes.frmPacientes.resources
+D:\Dropbox\Tecnicatura\Programación III\2024\Clase 08\Pacientes\Pacientes\obj\Debug\Pacientes.frmPrincipal.resources
+D:\Dropbox\Tecnicatura\Programación III\2024\Clase 08\Pacientes\Pacientes\obj\Debug\Pacientes.frmSexos.resources
+D:\Dropbox\Tecnicatura\Programación III\2024\Clase 08\Pacientes\Pacientes\obj\Debug\Pacientes.frmModificarSexo.resources
+D:\Dropbox\Tecnicatura\Programación III\2024\Clase 08\Pacientes\Pacientes\obj\Debug\Pacientes.Properties.Resources.resources
+D:\Dropbox\Tecnicatura\Programación III\2024\Clase 08\Pacientes\Pacientes\obj\Debug\Pacientes.csproj.GenerateResource.cache
+D:\Dropbox\Tecnicatura\Programación III\2024\Clase 08\Pacientes\Pacientes\obj\Debug\Pacientes.csproj.CoreCompileInputs.cache
+D:\Dropbox\Tecnicatura\Programación III\2024\Clase 08\Pacientes\Pacientes\obj\Debug\Pacientes.exe
+D:\Dropbox\Tecnicatura\Programación III\2024\Clase 08\Pacientes\Pacientes\obj\Debug\Pacientes.pdb
+d:\Usuario\Escritorio\Pacientes_forms\Pacientes\obj\Debug\Pacientes.csproj.AssemblyReference.cache
+d:\Usuario\Escritorio\Pacientes_forms\Pacientes\obj\Debug\Pacientes.frmModificarPaciente.resources
+d:\Usuario\Escritorio\Pacientes_forms\Pacientes\obj\Debug\Pacientes.frmNuevoPaciente.resources
+d:\Usuario\Escritorio\Pacientes_forms\Pacientes\obj\Debug\Pacientes.frmNuevoSexo.resources
+d:\Usuario\Escritorio\Pacientes_forms\Pacientes\obj\Debug\Pacientes.frmPacientes.resources
+d:\Usuario\Escritorio\Pacientes_forms\Pacientes\obj\Debug\Pacientes.frmPrincipal.resources
+d:\Usuario\Escritorio\Pacientes_forms\Pacientes\obj\Debug\Pacientes.frmSexos.resources
+d:\Usuario\Escritorio\Pacientes_forms\Pacientes\obj\Debug\Pacientes.frmModificarSexo.resources
+d:\Usuario\Escritorio\Pacientes_forms\Pacientes\obj\Debug\Pacientes.Properties.Resources.resources
+d:\Usuario\Escritorio\Pacientes_forms\Pacientes\obj\Debug\Pacientes.csproj.GenerateResource.cache
+d:\Usuario\Escritorio\Pacientes_forms\Pacientes\obj\Debug\Pacientes.csproj.CoreCompileInputs.cache
+d:\Usuario\Escritorio\Pacientes_forms\Pacientes\obj\Debug\Pacientes.exe
+d:\Usuario\Escritorio\Pacientes_forms\Pacientes\obj\Debug\Pacientes.pdb
+d:\Usuario\Escritorio\Pacientes_forms\Pacientes\bin\Debug\Pacientes.exe.config
+d:\Usuario\Escritorio\Pacientes_forms\Pacientes\bin\Debug\Pacientes.exe
+d:\Usuario\Escritorio\Pacientes_forms\Pacientes\bin\Debug\Pacientes.pdb
+C:\Users\alejo\Desktop\Pacientes_forms\Pacientes\bin\Debug\Pacientes.exe.config
+C:\Users\alejo\Desktop\Pacientes_forms\Pacientes\bin\Debug\Pacientes.exe
+C:\Users\alejo\Desktop\Pacientes_forms\Pacientes\bin\Debug\Pacientes.pdb
+C:\Users\alejo\Desktop\Pacientes_forms\Pacientes\obj\Debug\Pacientes.csproj.AssemblyReference.cache
+C:\Users\alejo\Desktop\Pacientes_forms\Pacientes\obj\Debug\Pacientes.csproj.SuggestedBindingRedirects.cache
+C:\Users\alejo\Desktop\Pacientes_forms\Pacientes\obj\Debug\Pacientes.frmModificarPaciente.resources
+C:\Users\alejo\Desktop\Pacientes_forms\Pacientes\obj\Debug\Pacientes.frmNuevoPaciente.resources
+C:\Users\alejo\Desktop\Pacientes_forms\Pacientes\obj\Debug\Pacientes.frmNuevoSexo.resources
+C:\Users\alejo\Desktop\Pacientes_forms\Pacientes\obj\Debug\Pacientes.frmPacientes.resources
+C:\Users\alejo\Desktop\Pacientes_forms\Pacientes\obj\Debug\Pacientes.frmPrincipal.resources
+C:\Users\alejo\Desktop\Pacientes_forms\Pacientes\obj\Debug\Pacientes.frmSexos.resources
+C:\Users\alejo\Desktop\Pacientes_forms\Pacientes\obj\Debug\Pacientes.frmModificarSexo.resources
+C:\Users\alejo\Desktop\Pacientes_forms\Pacientes\obj\Debug\Pacientes.Properties.Resources.resources
+C:\Users\alejo\Desktop\Pacientes_forms\Pacientes\obj\Debug\Pacientes.csproj.GenerateResource.cache
+C:\Users\alejo\Desktop\Pacientes_forms\Pacientes\obj\Debug\Pacientes.csproj.CoreCompileInputs.cache
+C:\Users\alejo\Desktop\Pacientes_forms\Pacientes\obj\Debug\Pacientes.exe
+C:\Users\alejo\Desktop\Pacientes_forms\Pacientes\obj\Debug\Pacientes.pdb
+C:\Users\alejo\Desktop\Colegio\Tarea facu\Laboratorio de C\Programas\Pacientes_forms\Pacientes\bin\Debug\Pacientes.exe.config
+C:\Users\alejo\Desktop\Colegio\Tarea facu\Laboratorio de C\Programas\Pacientes_forms\Pacientes\bin\Debug\Pacientes.exe
+C:\Users\alejo\Desktop\Colegio\Tarea facu\Laboratorio de C\Programas\Pacientes_forms\Pacientes\bin\Debug\Pacientes.pdb
+C:\Users\alejo\Desktop\Colegio\Tarea facu\Laboratorio de C\Programas\Pacientes_forms\Pacientes\obj\Debug\Pacientes.csproj.AssemblyReference.cache
+C:\Users\alejo\Desktop\Colegio\Tarea facu\Laboratorio de C\Programas\Pacientes_forms\Pacientes\obj\Debug\Pacientes.csproj.SuggestedBindingRedirects.cache
+C:\Users\alejo\Desktop\Colegio\Tarea facu\Laboratorio de C\Programas\Pacientes_forms\Pacientes\obj\Debug\Pacientes.frmModificarPaciente.resources
+C:\Users\alejo\Desktop\Colegio\Tarea facu\Laboratorio de C\Programas\Pacientes_forms\Pacientes\obj\Debug\Pacientes.frmNuevoPaciente.resources
+C:\Users\alejo\Desktop\Colegio\Tarea facu\Laboratorio de C\Programas\Pacientes_forms\Pacientes\obj\Debug\Pacientes.frmNuevoSexo.resources
+C:\Users\alejo\Desktop\Colegio\Tarea facu\Laboratorio de C\Programas\Pacientes_forms\Pacientes\obj\Debug\Pacientes.frmPacientes.resources
+C:\Users\alejo\Desktop\Colegio\Tarea facu\Laboratorio de C\Programas\Pacientes_forms\Pacientes\obj\Debug\Pacientes.frmPrincipal.resources
+C:\Users\alejo\Desktop\Colegio\Tarea facu\Laboratorio de C\Programas\Pacientes_forms\Pacientes\obj\Debug\Pacientes.frmSexos.resources
+C:\Users\alejo\Desktop\Colegio\Tarea facu\Laboratorio de C\Programas\Pacientes_forms\Pacientes\obj\Debug\Pacientes.frmModificarSexo.resources
+C:\Users\alejo\Desktop\Colegio\Tarea facu\Laboratorio de C\Programas\Pacientes_forms\Pacientes\obj\Debug\Pacientes.Properties.Resources.resources
+C:\Users\alejo\Desktop\Colegio\Tarea facu\Laboratorio de C\Programas\Pacientes_forms\Pacientes\obj\Debug\Pacientes.csproj.GenerateResource.cache
+C:\Users\alejo\Desktop\Colegio\Tarea facu\Laboratorio de C\Programas\Pacientes_forms\Pacientes\obj\Debug\Pacientes.csproj.CoreCompileInputs.cache
+C:\Users\alejo\Desktop\Colegio\Tarea facu\Laboratorio de C\Programas\Pacientes_forms\Pacientes\obj\Debug\Pacientes.exe
+C:\Users\alejo\Desktop\Colegio\Tarea facu\Laboratorio de C\Programas\Pacientes_forms\Pacientes\obj\Debug\Pacientes.pdb
